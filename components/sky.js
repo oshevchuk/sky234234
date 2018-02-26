@@ -11,7 +11,7 @@ var sky=(function (module) {
             var re_radius=8;
             var n=20;
             var step=Math.PI*2/n;
-// var sky_vertices=[];
+
 // var uv_faces=[];
             var faces=[];
 
